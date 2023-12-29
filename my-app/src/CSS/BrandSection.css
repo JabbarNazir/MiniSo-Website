@@ -1,0 +1,51 @@
+.brand{
+    display: flex;
+    margin-top: 16px;
+}
+
+.leftSection{
+    width: 49%;
+}
+
+.leftt{
+height: 700px;
+width: 100%;
+}
+
+.rightSection{
+    width: 49%;
+    margin-left: 2%;
+}
+.up{
+    border: 1px solid #D4D4D4;
+    height: 345px;
+}
+
+.up h1{
+    margin-top: 72px;
+    margin-left: 68px;
+}
+.up p{
+    margin-left: 128px;
+    margin-top: 44px;
+}
+
+.butn{
+    background-color: transparent;
+    width: 178px;
+    height: 45px;
+    margin-top: 44px;
+    border: 1px solid #D4D4D4;
+    color:#D4D4D4;
+    margin-left: 172px;
+}
+
+.down{
+    height: 345px;
+    
+}
+.rightt{
+    height: 345px;
+    width: 100%;
+    margin-top: 10px;
+}

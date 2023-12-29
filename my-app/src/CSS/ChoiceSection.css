@@ -1,0 +1,44 @@
+.choice{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+.icon{
+    margin-left: 64px;
+    cursor: pointer;
+}
+.icon img{
+    color: #D4D4D4;
+    
+}
+.icon p{
+    margin-top: 16px;
+    font-size: 14px;
+    color: #D4D4D4;
+}
+
+/* ------------filter------------ */
+
+.filter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image{
+    margin-left: 32px;
+}
+.image img{
+    height: 236px;
+    width: 236px;
+}

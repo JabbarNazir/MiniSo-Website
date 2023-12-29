@@ -1,0 +1,21 @@
+.pagess{
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 64px;
+    margin-left: 190px;
+}
+.pages{
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 64px;
+    margin-left: 24px;
+}
+.pages:hover{
+    color: #D10709;
+    text-decoration:2px solid underline #D10709 ;
+}
+
